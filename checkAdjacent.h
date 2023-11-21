@@ -1,3 +1,6 @@
+// Code written by Caleb Smay
+// November 2022
+
 #ifndef ADJACENT_H
 #define ADJACENT_H
 #include <iostream>

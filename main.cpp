@@ -1,3 +1,7 @@
+// Input parsing and display by Caleb Smay
+// Individual simulation steps written by Daniel Kaderli and Zach Jones
+// November 2022
+
 #include <iostream>
 #include <fstream>
 #include <string>

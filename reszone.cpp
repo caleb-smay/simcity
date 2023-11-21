@@ -1,3 +1,6 @@
+// Code written by Zach Jones
+// November 2022
+
 #include "reszone.h"
 #include "checkAdjacent.h"
 

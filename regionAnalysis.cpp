@@ -1,3 +1,6 @@
+// Code written by Caleb Smay
+// November 2022
+
 #include "regionAnalysis.h"
 
 void OutputPollution(Node*** array, int smallX, int smallY, int bigX, int bigY){

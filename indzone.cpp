@@ -1,22 +1,5 @@
-/*
-    Programmer: Daniel Kaderli
-    Class: CSCE 2110.002
-    Date: 10/31/2022
-    Description: indzone.cpp contains pollution and industrial update functionality.
-    Variables:
-        array1: original array pre-update
-        array2: resulting array post-update
-        arrayX/x: max value of x-axis of region
-        arrayY/y: max value of y-axis of region
-        j/i: current position in region (x/y respective)
-        locPop: current cell population
-        popNum: sum of population of adjacent cells
-
-    Functions:
-        void pollute(...): sets pollution for cell and spreads to adjacent cells
-        void indUpdate(...): updates information for industrial cells 
-
-*/
+// Code written by Daniel Kaderli
+// November 2022
 
 #include "indzone.h"
 #include "checkAdjacent.h"

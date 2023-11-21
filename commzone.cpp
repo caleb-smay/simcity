@@ -1,3 +1,9 @@
+// Code written by SOMEBODY
+// November 2022
+
+// Code written by Zach Jones
+// November 2022
+
 #include "commzone.h"
 #include "checkAdjacent.h"
 

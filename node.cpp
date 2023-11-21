@@ -1,3 +1,6 @@
+// Code written by all group members
+// November 2022
+
 #include "node.h"
 
 //Constructors

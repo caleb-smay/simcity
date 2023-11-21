@@ -1,3 +1,6 @@
+// Code written by Caleb Smay
+// November 2022
+
 #include "checkAdjacent.h"
 
 bool isValidPos(int i, int j, int x, int y){

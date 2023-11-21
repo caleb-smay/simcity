@@ -1,3 +1,6 @@
+// Code written by Caleb Smay
+// November 2022
+
 #include "array2D.h"
 
 Node*** CreateArray(int arrayX, int arrayY){
@@ -14,7 +17,7 @@ Node*** CreateArray(int arrayX, int arrayY){
 }
 
 void DestroyArray(Node*** array, int arrayX, int arrayY){
-    for(int i = arrayX - 1; i >= 0; i--){  //Give that bad boy some depth
+    for(int i = arrayX - 1; i >= 0; i--){  //Take away that bad boy's depth
         for(int j = arrayY - 1; j >= 0; j--){
             delete array[i][j];
         }

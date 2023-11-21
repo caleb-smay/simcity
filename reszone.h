@@ -1,3 +1,6 @@
+// Code written by Zach Jones
+// November 2022
+
 #ifndef RESZONE_H
 #define RESZONE_H
 #include <iostream>

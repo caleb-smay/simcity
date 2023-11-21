@@ -1,3 +1,6 @@
+// Code written by Caleb Smay
+// November 2022
+
 #include <iostream>
 #include "node.h"
 

@@ -1,3 +1,6 @@
+// Code written by Daniel Kaderli
+// November 2022
+
 #ifndef INDZONE_H
 #define INDZONE_H
 
